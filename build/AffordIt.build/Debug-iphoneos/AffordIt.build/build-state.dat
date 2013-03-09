@@ -1,0 +1,1044 @@
+TAffordIt
+v7
+r1
+cCheck dependencies
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk
+c000000004B47D28D0000000000000110
+t1262998157
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/ResourceRules.plist
+c000000004A0BA04000000000000001E5
+t1242275904
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A121EB900000000003D72A0
+t1242701497
+s4027040
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A121FF90000000000396540
+t1242701817
+s3761472
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAECB0000000000001355
+t1242279627
+s4949
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBD000000000000075E
+t1242349245
+s1886
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A1221FD00000000019A6110
+t1242702333
+s26894608
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk
+c000000004B47D7B70000000000000110
+t1262999479
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/ResourceRules.plist
+c000000004ABDB88400000000000001E5
+t1253947524
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004ABDBA1300000000005F4900
+t1253947923
+s6244608
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004ABDBDCF0000000000501370
+t1253948879
+s5247856
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004ABDBDA40000000000001355
+t1253948836
+s4949
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004ABDD0D10000000000000788
+t1253953745
+s1928
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004ABDD2250000000001B3F450
+t1253954085
+s28570704
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk
+c000000004B79A1A50000000000000110
+t1266262437
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/ResourceRules.plist
+c000000004B2B3B9F00000000000001E5
+t1261124511
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B2B537900000000005F4900
+t1261130617
+s6244608
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B2B551F0000000000501370
+t1261131039
+s5247856
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B2B54F40000000000001355
+t1261130996
+s4949
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B2B61610000000000000788
+t1261134177
+s1928
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B2B63DA0000000001B3F450
+t1261134810
+s28570704
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk
+c000000004B47C9600000000000000110
+t1262995808
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/ResourceRules.plist
+c000000004A767D3000000000000001E5
+t1249279280
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A82198D00000000005F4900
+t1250040205
+s6244608
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A76566F0000000000501370
+t1249269359
+s5247856
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A7656460000000000001355
+t1249269318
+s4949
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A7C6E9C0000000000000788
+t1249668764
+s1928
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A7C6FEF0000000001B3F450
+t1249669103
+s28570704
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/AffordIt_Prefix.pch
+c000000004A63A1E000000000000000B9
+t1248043488
+s185
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/Background.png
+c000000004A6A59400000000000019454
+t1248483648
+s103508
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/Classes/AffordItAppDelegate.h
+c000000004A642798000000000000022F
+t1248077720
+s559
+i<UIKit/UIKit.h>
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/Classes/AffordItAppDelegate.m
+c000000004A6BB75E00000000000002F9
+t1248573278
+s761
+i"AffordItAppDelegate.h"
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/Classes/CreditDetailController.h
+c000000004A6932D8000000000000015A
+t1248408280
+s346
+i<UIKit/UIKit.h>
+i"ThirdLevelViewController.h"
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/Classes/CreditDetailController.m
+c000000004A6BC37E0000000000001453
+t1248576382
+s5203
+i"CreditDetailController.h"
+i"AffordItAppDelegate.h"
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/Classes/CreditViewController.h
+c000000004A68E4680000000000000246
+t1248388200
+s582
+i<UIKit/UIKit.h>
+i"SecondLevelViewController.h"
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/Classes/CreditViewController.m
+c000000004A6935B80000000000001819
+t1248409016
+s6169
+i"AffordItAppDelegate.h"
+i"CreditViewController.h"
+i"CustomCellForExpense.h"
+i"CreditDetailController.h"
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/Classes/CustomCellForExpense.h
+c000000004A66368600000000000001B3
+t1248212614
+s435
+i<UIKit/UIKit.h>
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/Classes/CustomCellForExpense.m
+c000000004A6540EC00000000000002D3
+t1248149740
+s723
+i"CustomCellForExpense.h"
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/Classes/ExpenseDetailController.h
+c000000004A68E778000000000000015D
+t1248388984
+s349
+i<UIKit/UIKit.h>
+i"ThirdLevelViewController.h"
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/Classes/ExpenseDetailController.m
+c000000004A6BC37E0000000000001455
+t1248576382
+s5205
+i"ExpenseDetailController.h"
+i"AffordItAppDelegate.h"
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/Classes/ExpenseViewController.h
+c000000004A68E468000000000000024E
+t1248388200
+s590
+i<UIKit/UIKit.h>
+i"SecondLevelViewController.h"
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/Classes/ExpenseViewController.m
+c000000004A6BB95E0000000000001832
+t1248573790
+s6194
+i"AffordItAppDelegate.h"
+i"ExpenseViewController.h"
+i"CustomCellForExpense.h"
+i"ExpenseDetailController.h"
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/Classes/FirstViewController.h
+c000000004A63B05000000000000000E8
+t1248047184
+s232
+i<UIKit/UIKit.h>
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/Classes/FirstViewController.m
+c000000004A66527E00000000000005E9
+t1248219774
+s1513
+i"FirstViewController.h"
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/Classes/FourthViewController.h
+c000000004A693DAC0000000000000179
+t1248411052
+s377
+i<UIKit/UIKit.h>
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/Classes/FourthViewController.m
+c000000004A6CCF800000000000000DEF
+t1248644992
+s3567
+i"FourthViewController.h"
+i"AffordItAppDelegate.h"
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/Classes/IncomeDetailController.h
+c000000004B5B5B8C000000000000015A
+t1264278412
+s346
+i<UIKit/UIKit.h>
+i"ThirdLevelViewController.h"
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/Classes/IncomeDetailController.m
+c000000004A6BC37E0000000000001454
+t1248576382
+s5204
+i"IncomeDetailController.h"
+i"AffordItAppDelegate.h"
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/Classes/IncomeViewController.h
+c000000004A695D960000000000000246
+t1248419222
+s582
+i<UIKit/UIKit.h>
+i"SecondLevelViewController.h"
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/Classes/IncomeViewController.m
+c000000004A6BB95E0000000000001813
+t1248573790
+s6163
+i"AffordItAppDelegate.h"
+i"IncomeViewController.h"
+i"CustomCellForExpense.h"
+i"IncomeDetailController.h"
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/Classes/LiabilityDetailController.h
+c000000004A68E7780000000000000163
+t1248388984
+s355
+i<UIKit/UIKit.h>
+i"ThirdLevelViewController.h"
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/Classes/LiabilityDetailController.m
+c000000004A6BC37E0000000000001461
+t1248576382
+s5217
+i"LiabilityDetailController.h"
+i"AffordItAppDelegate.h"
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/Classes/LiabilityViewController.h
+c000000004A68E4680000000000000251
+t1248388200
+s593
+i<UIKit/UIKit.h>
+i"SecondLevelViewController.h"
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/Classes/LiabilityViewController.m
+c000000004A69225A0000000000001809
+t1248404058
+s6153
+i"AffordItAppDelegate.h"
+i"LiabilityViewController.h"
+i"CustomCellForExpense.h"
+i"LiabilityDetailController.h"
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/Classes/SavingDetailController.h
+c000000004A68E77800000000000001F6
+t1248388984
+s502
+i<UIKit/UIKit.h>
+i"ThirdLevelViewController.h"
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/Classes/SavingDetailController.m
+c000000004A6BC37E000000000000186F
+t1248576382
+s6255
+i"SavingDetailController.h"
+i"AffordItAppDelegate.h"
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/Classes/SavingViewController.h
+c000000004A68E4680000000000000246
+t1248388200
+s582
+i<UIKit/UIKit.h>
+i"SecondLevelViewController.h"
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/Classes/SavingViewController.m
+c000000004A6BB4C20000000000001AA2
+t1248572610
+s6818
+i"AffordItAppDelegate.h"
+i"SavingViewController.h"
+i"CustomCellForExpense.h"
+i"SavingDetailController.h"
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/Classes/SecondLevelViewController.h
+c000000004A6940520000000000000294
+t1248411730
+s660
+i<UIKit/UIKit.h>
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/Classes/SecondLevelViewController.m
+c000000004A694086000000000000095A
+t1248411782
+s2394
+i"SecondLevelViewController.h"
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/Classes/SecondViewController.h
+c000000004A6A2D2E0000000000000167
+t1248472366
+s359
+i<UIKit/UIKit.h>
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/Classes/SecondViewController.m
+c000000004A6A53EC0000000000001414
+t1248482284
+s5140
+i"SecondViewController.h"
+i"SecondLevelViewController.h"
+i"AffordItAppDelegate.h"
+i"IncomeViewController.h"
+i"LiabilityViewController.h"
+i"ExpenseViewController.h"
+i"SavingViewController.h"
+i"CreditViewController.h"
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/Classes/ThirdLevelViewController.h
+c000000004A6806C6000000000000041D
+t1248331462
+s1053
+i<UIKit/UIKit.h>
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/Classes/ThirdLevelViewController.m
+c000000004A6BB95E0000000000000C2E
+t1248573790
+s3118
+i"ThirdLevelViewController.h"
+i"AffordItAppDelegate.h"
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/Classes/ThirdViewController.h
+c000000004A693FAA00000000000002E4
+t1248411562
+s740
+i<UIKit/UIKit.h>
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/Classes/ThirdViewController.m
+c000000004A6CCD560000000000001F07
+t1248644438
+s7943
+i"ThirdViewController.h"
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/CreditDetailView.xib
+c000000004A6BA8700000000000004DC8
+t1248569456
+s19912
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/CreditList.plist
+c000000004A6931960000000000000118
+t1248407958
+s280
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/CreditView.xib
+c000000004A6A92020000000000003D07
+t1248498178
+s15623
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/Creditcard.png
+c000000004A6A36A00000000000000EA1
+t1248474784
+s3745
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/CustomCellForExpense.xib
+c000000004A6904640000000000002BB0
+t1248396388
+s11184
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/Entitlements.plist
+c000000004A6CE8A400000000000000E1
+t1248651428
+s225
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/Expense.png
+c000000004A6A34300000000000001034
+t1248474160
+s4148
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/ExpenseDetailView.xib
+c000000004A6BA85400000000000051A4
+t1248569428
+s20900
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/ExpenseList.plist
+c000000004A6770500000000000000280
+t1248292944
+s640
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/ExpenseView.xib
+c000000004A6A91BC0000000000003D0A
+t1248498108
+s15626
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/FirstView.xib
+c000000004A6BB7C60000000000002692
+t1248573382
+s9874
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/FourthView.xib
+c000000004A6CC9F600000000000034A2
+t1248643574
+s13474
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/Income.png
+c000000004A6A2E700000000000000FCF
+t1248472688
+s4047
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/IncomeDetailView.xib
+c000000004A6BA8480000000000005194
+t1248569416
+s20884
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/IncomeList.plist
+c000000004A66851C00000000000000E7
+t1248232732
+s231
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/IncomeView.xib
+c000000004A6A91A20000000000003D12
+t1248498082
+s15634
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/Liability.png
+c000000004A6A31740000000000000EF5
+t1248473460
+s3829
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/LiabilityDetailView.xib
+c000000004A6BA86400000000000051A3
+t1248569444
+s20899
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/LiabilityList.plist
+c000000004A6631000000000000000140
+t1248211200
+s320
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/LiabilityView.xib
+c000000004A6A91D60000000000003D13
+t1248498134
+s15635
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/Logo.png
+c000000004A6BC8780000000000001F40
+t1248577656
+s8000
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/MainWindow.xib
+c000000004A6A81E800000000000050CA
+t1248494056
+s20682
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/Saving.png
+c000000004A6A35300000000000000F88
+t1248474416
+s3976
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/SavingDetailView.xib
+c000000004A6BB2AE0000000000005D12
+t1248572078
+s23826
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/SavingList.plist
+c000000004A692C040000000000000163
+t1248406532
+s355
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/SavingView.xib
+c000000004A6BB4F40000000000003CF9
+t1248572660
+s15609
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/ThirdView.xib
+c000000004A750BE40000000000005852
+t1249184740
+s22610
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/afford.png
+c000000004A6A62C60000000000000F8F
+t1248486086
+s3983
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/blueButton.png
+c0000000049FA2DC200000000000005BC
+t1241132482
+s1468
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/build/AffordIt.build/Debug-iphoneos/AffordIt.build/Objects-normal/armv6/AffordIt.LinkFileList
+c000000004A6B874C0000000000000A46
+t1248560972
+s2630
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/build/AffordIt.build/Debug-iphoneos/AffordIt.build/Objects-normal/armv6/AffordItAppDelegate.o
+t1248643424
+s44868
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/build/AffordIt.build/Debug-iphoneos/AffordIt.build/Objects-normal/armv6/CreditDetailController.o
+t1248643424
+s55980
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/build/AffordIt.build/Debug-iphoneos/AffordIt.build/Objects-normal/armv6/CreditViewController.o
+t1248560976
+s66288
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/build/AffordIt.build/Debug-iphoneos/AffordIt.build/Objects-normal/armv6/CustomCellForExpense.o
+t1248560976
+s19804
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/build/AffordIt.build/Debug-iphoneos/AffordIt.build/Objects-normal/armv6/ExpenseDetailController.o
+t1248643424
+s56004
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/build/AffordIt.build/Debug-iphoneos/AffordIt.build/Objects-normal/armv6/ExpenseViewController.o
+t1248643424
+s66352
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/build/AffordIt.build/Debug-iphoneos/AffordIt.build/Objects-normal/armv6/FirstViewController.o
+t1248560976
+s29284
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/build/AffordIt.build/Debug-iphoneos/AffordIt.build/Objects-normal/armv6/FourthViewController.o
+t1248645206
+s51624
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/build/AffordIt.build/Debug-iphoneos/AffordIt.build/Objects-normal/armv6/IncomeDetailController.o
+t1248643424
+s55980
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/build/AffordIt.build/Debug-iphoneos/AffordIt.build/Objects-normal/armv6/IncomeViewController.o
+t1248643424
+s66280
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/build/AffordIt.build/Debug-iphoneos/AffordIt.build/Objects-normal/armv6/LiabilityDetailController.o
+t1248643424
+s56060
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/build/AffordIt.build/Debug-iphoneos/AffordIt.build/Objects-normal/armv6/LiabilityViewController.o
+t1248560976
+s66500
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/build/AffordIt.build/Debug-iphoneos/AffordIt.build/Objects-normal/armv6/SavingDetailController.o
+t1248643424
+s61884
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/build/AffordIt.build/Debug-iphoneos/AffordIt.build/Objects-normal/armv6/SavingViewController.o
+t1248643424
+s68312
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/build/AffordIt.build/Debug-iphoneos/AffordIt.build/Objects-normal/armv6/SecondLevelViewController.o
+t1248560976
+s39008
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/build/AffordIt.build/Debug-iphoneos/AffordIt.build/Objects-normal/armv6/SecondViewController.o
+t1248560976
+s57284
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/build/AffordIt.build/Debug-iphoneos/AffordIt.build/Objects-normal/armv6/ThirdLevelViewController.o
+t1248643424
+s46452
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/build/AffordIt.build/Debug-iphoneos/AffordIt.build/Objects-normal/armv6/ThirdViewController.o
+t1248644652
+s56604
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/build/AffordIt.build/Debug-iphoneos/AffordIt.build/Objects-normal/armv6/main.o
+t1248560976
+s6552
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/build/Debug-iphoneos/AffordIt.app
+t1278310860
+s1496
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/build/Debug-iphoneos/AffordIt.app.dSYM
+t1248645206
+s102
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/build/Debug-iphoneos/AffordIt.app/AffordIt
+t1248645206
+s144240
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/build/Debug-iphoneos/AffordIt.app/Background.png
+t1248560976
+s96599
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/build/Debug-iphoneos/AffordIt.app/CreditDetailView.nib
+t1248643422
+s4701
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/build/Debug-iphoneos/AffordIt.app/CreditList.plist
+t1248560974
+s80
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/build/Debug-iphoneos/AffordIt.app/CreditView.nib
+t1248560974
+s3923
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/build/Debug-iphoneos/AffordIt.app/Creditcard.png
+t1248560974
+s3884
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/build/Debug-iphoneos/AffordIt.app/CustomCellForExpense.nib
+t1248560972
+s2986
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/build/Debug-iphoneos/AffordIt.app/Entitlements.plist
+t1248652790
+s62
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/build/Debug-iphoneos/AffordIt.app/Expense.png
+t1248560974
+s4316
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/build/Debug-iphoneos/AffordIt.app/ExpenseDetailView.nib
+t1248643422
+s4853
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/build/Debug-iphoneos/AffordIt.app/ExpenseList.plist
+t1248560972
+s168
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/build/Debug-iphoneos/AffordIt.app/ExpenseView.nib
+t1248560972
+s3919
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/build/Debug-iphoneos/AffordIt.app/FirstView.nib
+t1248643422
+s2489
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/build/Debug-iphoneos/AffordIt.app/FourthView.nib
+t1248643590
+s3922
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/build/Debug-iphoneos/AffordIt.app/Income.png
+t1248560974
+s4394
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/build/Debug-iphoneos/AffordIt.app/IncomeDetailView.nib
+t1248643424
+s4856
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/build/Debug-iphoneos/AffordIt.app/IncomeList.plist
+t1248560974
+s59
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/build/Debug-iphoneos/AffordIt.app/IncomeView.nib
+t1248560972
+s3922
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/build/Debug-iphoneos/AffordIt.app/Info.plist
+t1248643422
+s633
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/build/Debug-iphoneos/AffordIt.app/Liability.png
+t1248560974
+s3972
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/build/Debug-iphoneos/AffordIt.app/LiabilityDetailView.nib
+t1248643422
+s4861
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/build/Debug-iphoneos/AffordIt.app/LiabilityList.plist
+t1248560972
+s88
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/build/Debug-iphoneos/AffordIt.app/LiabilityView.nib
+t1248560974
+s3928
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/build/Debug-iphoneos/AffordIt.app/Logo.png
+t1248643424
+s8929
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/build/Debug-iphoneos/AffordIt.app/MainWindow.nib
+t1248560972
+s3800
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/build/Debug-iphoneos/AffordIt.app/PkgInfo
+t1248643422
+s8
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/build/Debug-iphoneos/AffordIt.app/ResourceRules.plist
+t1248560972
+s485
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/build/Debug-iphoneos/AffordIt.app/Saving.png
+t1248560974
+s4144
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/build/Debug-iphoneos/AffordIt.app/SavingDetailView.nib
+t1248643422
+s5270
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/build/Debug-iphoneos/AffordIt.app/SavingList.plist
+t1248560974
+s82
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/build/Debug-iphoneos/AffordIt.app/SavingView.nib
+t1248643422
+s3918
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/build/Debug-iphoneos/AffordIt.app/ThirdView.nib
+t1249184754
+s5578
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/build/Debug-iphoneos/AffordIt.app/afford.png
+t1248560974
+s4334
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/build/Debug-iphoneos/AffordIt.app/blueButton.png
+t1248560974
+s1586
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/build/Debug-iphoneos/AffordIt.app/credit.png
+t1248560974
+s4774
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/build/Debug-iphoneos/AffordIt.app/information.png
+t1248560974
+s4453
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/build/Debug-iphoneos/AffordIt.app/rules.png
+t1248560974
+s4683
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/build/Debug-iphoneos/AffordIt.app/whiteButton.png
+t1248560974
+s1603
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/credit.png
+c000000004A6A65320000000000001312
+t1248486706
+s4882
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/information.png
+c000000004A6A5E9C00000000000010EF
+t1248485020
+s4335
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/main.m
+c000000004A63A1E0000000000000015B
+t1248043488
+s347
+i<UIKit/UIKit.h>
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/rules.png
+c000000004A6A5C2400000000000012F2
+t1248484388
+s4850
+
+N/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/whiteButton.png
+c0000000049FA2DC20000000000000596
+t1241132482
+s1430
+
+N/var/folders/xb/xbVlY54IH4OYJRJaI-cVsE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AffordIt_Prefix-brirtmwnkdrknwczyitzawxvtkyn/AffordIt_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/xb/xbVlY54IH4OYJRJaI-cVsE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AffordIt_Prefix-duljelzcusncmgdcgnfxqxbwexaz/AffordIt_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/xb/xbVlY54IH4OYJRJaI-cVsE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AffordIt_Prefix-ebsoqktvsmdppgalpkwxhfsmtxdd/AffordIt_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/xb/xbVlY54IH4OYJRJaI-cVsE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AffordIt_Prefix-fzwphexcpgorubceatnrsmpbesjm/AffordIt_Prefix.pch.gch
+t2
+s0
+
+NAffordIt-Info.plist
+c000000004A6BC9760000000000000373
+t1248577910
+s883
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies300090710#300090710#0(99"[BEROR]Code Sign error: Provisioning profile '948DCC72-2426-4BEB-BBEE-2CA01B79CF7C' can't be found1(4@91"Code Sign error: Provisioning profile '948DCC72-2426-4BEB-BBEE-2CA01B79CF7C' can't be found300090710#18446744073709551615#0#0(1@0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/AffordIt.build/Debug-iphoneos/AffordIt.build/Objects-normal/armv6/AffordItAppDelegate.o "/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/Classes/AffordItAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/AffordIt.build/Debug-iphoneos/AffordIt.build/Objects-normal/armv6/CreditDetailController.o "/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/Classes/CreditDetailController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/AffordIt.build/Debug-iphoneos/AffordIt.build/Objects-normal/armv6/CreditViewController.o "/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/Classes/CreditViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/AffordIt.build/Debug-iphoneos/AffordIt.build/Objects-normal/armv6/CustomCellForExpense.o "/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/Classes/CustomCellForExpense.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/AffordIt.build/Debug-iphoneos/AffordIt.build/Objects-normal/armv6/ExpenseDetailController.o "/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/Classes/ExpenseDetailController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/AffordIt.build/Debug-iphoneos/AffordIt.build/Objects-normal/armv6/ExpenseViewController.o "/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/Classes/ExpenseViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/AffordIt.build/Debug-iphoneos/AffordIt.build/Objects-normal/armv6/FirstViewController.o "/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/Classes/FirstViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/AffordIt.build/Debug-iphoneos/AffordIt.build/Objects-normal/armv6/FourthViewController.o "/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/Classes/FourthViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/AffordIt.build/Debug-iphoneos/AffordIt.build/Objects-normal/armv6/IncomeDetailController.o "/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/Classes/IncomeDetailController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/AffordIt.build/Debug-iphoneos/AffordIt.build/Objects-normal/armv6/IncomeViewController.o "/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/Classes/IncomeViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/AffordIt.build/Debug-iphoneos/AffordIt.build/Objects-normal/armv6/LiabilityDetailController.o "/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/Classes/LiabilityDetailController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/AffordIt.build/Debug-iphoneos/AffordIt.build/Objects-normal/armv6/LiabilityViewController.o "/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/Classes/LiabilityViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/AffordIt.build/Debug-iphoneos/AffordIt.build/Objects-normal/armv6/SavingDetailController.o "/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/Classes/SavingDetailController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/AffordIt.build/Debug-iphoneos/AffordIt.build/Objects-normal/armv6/SavingViewController.o "/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/Classes/SavingViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/AffordIt.build/Debug-iphoneos/AffordIt.build/Objects-normal/armv6/SecondLevelViewController.o "/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/Classes/SecondLevelViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/AffordIt.build/Debug-iphoneos/AffordIt.build/Objects-normal/armv6/SecondViewController.o "/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/Classes/SecondViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/AffordIt.build/Debug-iphoneos/AffordIt.build/Objects-normal/armv6/ThirdLevelViewController.o "/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/Classes/ThirdLevelViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/AffordIt.build/Debug-iphoneos/AffordIt.build/Objects-normal/armv6/ThirdViewController.o "/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/Classes/ThirdViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/AffordIt.build/Debug-iphoneos/AffordIt.build/Objects-normal/armv6/main.o "/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB "/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/CreditDetailView.xib"
+r0
+
+CCompileXIB "/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/CreditView.xib"
+r0
+
+CCompileXIB "/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/CustomCellForExpense.xib"
+r0
+
+CCompileXIB "/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/ExpenseDetailView.xib"
+r0
+
+CCompileXIB "/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/ExpenseView.xib"
+r0
+
+CCompileXIB "/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/FirstView.xib"
+r0
+
+CCompileXIB "/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/FourthView.xib"
+r0
+
+CCompileXIB "/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/IncomeDetailView.xib"
+r0
+
+CCompileXIB "/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/IncomeView.xib"
+r0
+
+CCompileXIB "/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/LiabilityDetailView.xib"
+r0
+
+CCompileXIB "/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/LiabilityView.xib"
+r0
+
+CCompileXIB "/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/SavingDetailView.xib"
+r0
+
+CCompileXIB "/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/SavingView.xib"
+r0
+
+CCompileXIB "/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/ThirdView.xib"
+r0
+
+CCopyPNGFile "/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/build/Debug-iphoneos/AffordIt.app/Background.png" Background.png
+r0
+
+CCopyPNGFile "/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/build/Debug-iphoneos/AffordIt.app/Creditcard.png" Creditcard.png
+r0
+
+CCopyPNGFile "/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/build/Debug-iphoneos/AffordIt.app/Expense.png" Expense.png
+r0
+
+CCopyPNGFile "/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/build/Debug-iphoneos/AffordIt.app/Income.png" Income.png
+r0
+
+CCopyPNGFile "/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/build/Debug-iphoneos/AffordIt.app/Liability.png" Liability.png
+r0
+
+CCopyPNGFile "/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/build/Debug-iphoneos/AffordIt.app/Logo.png" Logo.png
+r0
+
+CCopyPNGFile "/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/build/Debug-iphoneos/AffordIt.app/Saving.png" Saving.png
+r0
+
+CCopyPNGFile "/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/build/Debug-iphoneos/AffordIt.app/afford.png" afford.png
+r0
+
+CCopyPNGFile "/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/build/Debug-iphoneos/AffordIt.app/blueButton.png" blueButton.png
+r0
+
+CCopyPNGFile "/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/build/Debug-iphoneos/AffordIt.app/credit.png" credit.png
+r0
+
+CCopyPNGFile "/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/build/Debug-iphoneos/AffordIt.app/information.png" information.png
+r0
+
+CCopyPNGFile "/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/build/Debug-iphoneos/AffordIt.app/rules.png" rules.png
+r0
+
+CCopyPNGFile "/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/build/Debug-iphoneos/AffordIt.app/whiteButton.png" whiteButton.png
+r0
+
+CCopyPlistFile "/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/build/Debug-iphoneos/AffordIt.app/CreditList.plist" CreditList.plist
+r0
+
+CCopyPlistFile "/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/build/Debug-iphoneos/AffordIt.app/Entitlements.plist" Entitlements.plist
+r0
+
+CCopyPlistFile "/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/build/Debug-iphoneos/AffordIt.app/ExpenseList.plist" ExpenseList.plist
+r0
+
+CCopyPlistFile "/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/build/Debug-iphoneos/AffordIt.app/IncomeList.plist" IncomeList.plist
+r0
+
+CCopyPlistFile "/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/build/Debug-iphoneos/AffordIt.app/LiabilityList.plist" LiabilityList.plist
+r0
+
+CCopyPlistFile "/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/build/Debug-iphoneos/AffordIt.app/SavingList.plist" SavingList.plist
+r0
+
+CCpResource build/Debug-iphoneos/AffordIt.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/ResourceRules.plist
+r0
+
+CCpResource build/Debug-iphoneos/AffordIt.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/ResourceRules.plist
+r0
+
+CCpResource build/Debug-iphoneos/AffordIt.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/ResourceRules.plist
+r0
+
+CCpResource build/Debug-iphoneos/AffordIt.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/ResourceRules.plist
+r0
+
+CGenerateDSYMFile "/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/build/Debug-iphoneos/AffordIt.app.dSYM" "/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/build/Debug-iphoneos/AffordIt.app/AffordIt"
+r0
+
+CLd "/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/build/Debug-iphoneos/AffordIt.app/AffordIt" normal armv6
+r0
+
+CProcessInfoPlistFile "/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/build/Debug-iphoneos/AffordIt.app/Info.plist" AffordIt-Info.plist
+r0
+
+CProcessPCH /var/folders/xb/xbVlY54IH4OYJRJaI-cVsE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AffordIt_Prefix-brirtmwnkdrknwczyitzawxvtkyn/AffordIt_Prefix.pch.gch AffordIt_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/xb/xbVlY54IH4OYJRJaI-cVsE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AffordIt_Prefix-duljelzcusncmgdcgnfxqxbwexaz/AffordIt_Prefix.pch.gch AffordIt_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/xb/xbVlY54IH4OYJRJaI-cVsE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AffordIt_Prefix-ebsoqktvsmdppgalpkwxhfsmtxdd/AffordIt_Prefix.pch.gch AffordIt_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/xb/xbVlY54IH4OYJRJaI-cVsE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AffordIt_Prefix-fzwphexcpgorubceatnrsmpbesjm/AffordIt_Prefix.pch.gch AffordIt_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch "/Users/tianyiwang/Documents/Archive/Programming/iPhone Projects/AffordIt/build/Debug-iphoneos/AffordIt.app"
+r0
+

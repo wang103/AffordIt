@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Rent</key>
+	<string>$0</string>
+	<key>Electricity</key>
+	<string>$0</string>
+	<key>Cellphone</key>
+	<string>$0</string>
+	<key>Internet</key>
+	<string>$0</string>
+	<key>TV</key>
+	<string>$0</string>
+	<key>Water</key>
+	<string>$0</string>
+	<key>Trash</key>
+	<string>$0</string>
+	<key>Grocery</key>
+	<string>$0</string>
+	<key>Cloth</key>
+	<string>$0</string>
+	<key>Entertainment</key>
+	<string>$0</string>
+	<key>Insurance</key>
+	<string>$0</string>
+</dict>
+</plist>
